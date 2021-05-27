@@ -25,7 +25,7 @@ SECRET_KEY = 'wrv_zub^pao(0u#e(v@fg1&z4x#$i*t*pdl8ya4_tdh*w)-ji7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://apiprojectrest.herokuapp.com/', '127.0.0.1' ]
+ALLOWED_HOSTS = ['apiprojectrest.herokuapp.com/', '127.0.0.1' ]
 
 
 # Application definition
